@@ -54,7 +54,7 @@ and most effective way of transferring technology knowledge
 today.
 
 Source:
-http://pixabay.com/en/class-classroom-professor-student-377117/ (CC0)
+//pixabay.com/en/class-classroom-professor-student-377117/ (CC0)
 
 
 ## Cost
@@ -131,7 +131,7 @@ Legacy On-Demand Learning Systems
 combines
 
 
-<!-- .slide: data-background-image="https://open.edx.org/sites/default/files/wysiwyg/logo-edx-openedx.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="//open.edx.org/sites/default/files/wysiwyg/logo-edx-openedx.png" data-background-size="contain" -->
 Note: the Open edX learning management platform, a platform which is
 sweeping universities and academic institutions for its superior
 management capabilities and flexibility, with...
@@ -161,12 +161,12 @@ storage team a Ceph cluster to play with in training.
 Note: Or a massively scaleable container infrastructure, using
 potentially hundreds of Docker containers.
 
-Source: Docker Media Kit from https://www.docker.com/legal/marks_and_logos/
+Source: Docker Media Kit from //www.docker.com/legal/marks_and_logos/
 
 
-<!-- .slide: data-background-image="http://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="//upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" data-background-size="contain" -->
 Note: Or a Hadoop cluster.
-Source: http://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg
+Source: //upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg
 
 
 Full
