@@ -145,6 +145,11 @@ reshaping the way organizations manage and run their data centers.
 Full
 ## Integration
 With Real-Life Environments
+Note: As a result, Viaduct provides a learning experience that
+directly and smoothly integrated with life-sized, complex
+environments. This frees organizations from having to maintain a
+costly training infrastructure, or to settle for unrealistic
+scaled-down versions of complex environments.
 
 
 <!-- .slide: data-background-image="images/ceph-logo.svg" data-background-size="contain" -->
@@ -152,9 +157,11 @@ Note: Imagine being able to give *each and every person* on your
 storage team a Ceph cluster to play with in training.
 
 
-<!-- .slide: data-background-image="images/openflow-logo.png" data-background-size="contain" -->
-Note: Or an OpenFlow SDN environment.
-Source: http://openflow.smugmug.com/
+<!-- .slide: data-background-image="images/docker-logo.svg" data-background-size="contain" -->
+Note: Or a massively scaleable container infrastructure, using
+potentially hundreds of Docker containers.
+
+Source: Docker Media Kit from https://www.docker.com/legal/marks_and_logos/
 
 
 <!-- .slide: data-background-image="http://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" data-background-size="contain" -->
@@ -162,7 +169,12 @@ Note: Or a Hadoop cluster.
 Source: http://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg
 
 
-Full 
+Full
+## Multi-Device
+Capability
+
+
+Full
 ## Multi-Language
 Capability
 
@@ -171,4 +183,10 @@ Fully
 ## Open Innovation
 
 
-<!-- .slide: data-background-image="http://upload.wikimedia.org/wikipedia/commons/7/75/Culloden_Viaduct01_2007-08-22.jpg" data-background-size="cover" -->
+# Viaduct
+
+Bridging Canyons in Professional Education
+
+Coming 2015
+
+viaduct@hastexo.com
