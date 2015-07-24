@@ -48,36 +48,16 @@
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
-    controls: true,
-    progress: true,
+    controls: false,
+    progress: false,
     history: true,
     center: true,
 
-    mouseWheel: true,
-
-    // Parallax background image
-    // parallaxBackgroundImage: 'images/background.jpg',
-
-    // Parallax background size
-    // parallaxBackgroundSize: '2100px 900px', // CSS syntax, e.g. "2100px 900px"
+    mouseWheel: false,
 
     theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
     transition: Reveal.getQueryHash().transition || 'fade', // default/cube/page/concave/zoom/linear/fade/none
     backgroundTransition: Reveal.getQueryHash().backgroundTransition || 'none', // default/cube/page/concave/zoom/linear/fade/none
-
-
-    // multiplex: {
-    //     secret: null,
-    //     id: '76a205375ab6c6b8', // Obtained from socket.io server
-    //     url: 'revealjs.jit.su', // Location of socket.io server
-    // },
-
-    // Number of milliseconds between automatically proceeding to the
-    // next slide, disabled when set to 0, this value is automatically
-    // increased for audio files with longer duration
-    // autoSlide: 5000,
-    // audioPrefix: 'audio/',
-    // audioSuffix: '.mp3',
 
     // Optional libraries used to extend on reveal.js
     dependencies: [
@@ -88,9 +68,6 @@ Reveal.initialize({
 	{ src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
 	{ src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
 	{ src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.10/socket.io.min.js', async: true },
-//	{ src: 'reveal.js/plugin/multiplex/master.js', async: true },
-//	{ src: 'reveal.js/plugin/multiplex/client.js', async: true },
-//	{ src: 'reveal.js/plugin/audio-slideshow/audio-slideshow.js', condition: function( ) { return !!document.body.classList; } }
     ]
 });
     </script>
@@ -102,7 +79,6 @@ Reveal.initialize({
     <script src="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.js"></script>
     <script src="jquery-csv/src/jquery.csv.js"></script>
     <script src="charts/chart.js"></script>
-
 
     <script type="text/javascript">
       Reveal.addEventListener('ready', function() { barChart('benefits', 'label', ['value'], ['% of respondents']) })

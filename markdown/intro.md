@@ -1,8 +1,14 @@
+# Viaduct
+Fixing what's Broken in Professional Technology Education
+
+
 What's the
 # biggest
 challenge in
 ## technology
 today?
+Note: What, would you say, is the universal biggest challenge that
+enterprises face when it comes to technology?
 
 
 # Cost
@@ -22,7 +28,7 @@ Note: Or the ability to ramp up, innovate, and go to market quickly?
 ## Scale
 ## Speed
 ## Nope <!-- .element class="stamp fragment" -->
-Note: No. None of these.
+Note: In fact, it's none of these.
 
 
 Expected
@@ -48,31 +54,53 @@ increasingly complex systems. So, why don't we train them?
 
 
 <!-- .slide: data-background-image="images/class-377117_1920.jpg" data-background-size="cover" -->
-Note: because this is what training in the IT industry looks
+Note: because this is what training in the technology industry looks
 like. Face to face, single instructor. Small group. This is the best
 and most effective way of transferring technology knowledge
 today.
 
 Source:
-//pixabay.com/en/class-classroom-professor-student-377117/ (CC0)
+https://pixabay.com/en/class-classroom-professor-student-377117/ (CC0)
 
 
 ## Cost
 ## Scale
 ## Speed
 ## Nope <!-- .element class="stamp fragment" -->
-Note: Is this a cost-effective model that scales to any team size?
-Does is allow teams to accumulate knowledge quickly? No it does
-not. It doesn't help us to keep cost down, scale efficiently, or
-innovate faster. This model has to go, and we want to replace it with
-something better.
+Note: Is this a cost-effective model, that scales to any team size?
+Does it allow teams to accumulate knowledge quickly, and does it
+enable companies to innovate fast? It does neither.
+
+
+Increasingly
+### distributed
+and complex systems have
+## no match
+in training
+Note: In addition, while technology is getting increasingly complex
+and distributed, training still happens in unrealistic, overly
+simplified lab environments.
+
+
+It's like sending people to
+# Space
+straight from the lecture hall.
+Note: It's almost like putting astronauts in a lecture hall with a few
+tabletop exercises, and then strapping them into a rocket and flying
+them to space without ever setting foot in a realistic simulator.
+
+
+This model is
+# broken
+and we're here to
+# fix it.
 
 
 # Viaduct
 Bridging Canyons in Professional Education
-Note: Viaduct is here to change this model, and replace it to bridge
-the canyon between technology, and the skills required to run, operate
-and scale it, with a new approach.
+Note: Viaduct is here to bridge the canyon between technology on the
+one hand, and the skills required to run, operate and scale it on the
+other, to enable enterprises to scale better and innovate faster.
 
 
 ## A&nbsp;platform
@@ -86,6 +114,7 @@ to bring
 
 ## learning capability
 to any organization.
+Note: Why can we do this right now?
 
 
 We have a
@@ -104,7 +133,11 @@ that is
 # practical
 
 
+# realistic
+
+
 # immersive
+Note: ... to create a whole new learning experience.
 
 
 # Why
@@ -132,9 +165,10 @@ combines
 
 
 <!-- .slide: data-background-image="//open.edx.org/sites/default/files/wysiwyg/logo-edx-openedx.png" data-background-size="contain" -->
-Note: the Open edX learning management platform, a platform which is
-sweeping universities and academic institutions for its superior
-management capabilities and flexibility, with...
+Note: the Open edX learning management platform, one which is sweeping
+universities and academic institutions for its superior management
+capabilities and flexibility, and it needs to come to professional
+education.
 
 
 <!-- .slide: data-background-image="images/openstack-logo.svg" data-background-size="contain" -->
@@ -145,42 +179,53 @@ reshaping the way organizations manage and run their data centers.
 Full
 ## Integration
 With Real-Life Environments
-Note: As a result, Viaduct provides a learning experience that
+Note: As a result, Viaduct provides a learning experience that is
 directly and smoothly integrated with life-sized, complex
-environments. This frees organizations from having to maintain a
-costly training infrastructure, or to settle for unrealistic
-scaled-down versions of complex environments.
-
-
-<!-- .slide: data-background-image="images/ceph-logo.svg" data-background-size="contain" -->
-Note: Imagine being able to give *each and every person* on your
-storage team a Ceph cluster to play with in training.
+environments. This frees organizations from having to either maintain
+a costly parallel training infrastructure, or to settle for
+unrealistic scaled-down versions of complex environments.
 
 
 <!-- .slide: data-background-image="images/docker-logo.svg" data-background-size="contain" -->
-Note: Or a massively scaleable container infrastructure, using
-potentially hundreds of Docker containers.
+Note: Imagine being able to give *each and every person* on your
+virtualization team a massively scaleable container infrastructure,
+using potentially hundreds of Docker containers.
 
 Source: Docker Media Kit from //www.docker.com/legal/marks_and_logos/
 
 
+<!-- .slide: data-background-image="images/ceph-logo.svg" data-background-size="contain" -->
+Note: Or every new hire on your storage team a whole distributed Ceph cluster to
+play with in training.
+
+
 <!-- .slide: data-background-image="//upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" data-background-size="contain" -->
-Note: Or a Hadoop cluster.
+Note: Or every one of your Big Data developers a full Hadoop cluster.
+
+And then combine this with...
+
 Source: //upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg
 
 
 Full
 ## Multi-Device
 Capability
+Note: ... a streamlined multi-device
+learning platform, so anyone can learn from anywhere, using
+desktops, laptops, tablets and mobile devices
 
 
 Full
 ## Multi-Language
 Capability
+Note: ... and full multilanguage capability, to level the playing field
+for professionals with a first or working language other than English
 
 
 Fully
 ## Open Innovation
+Note: ... and do all that leveraging the momentum and speed of
+platforms that innovate rapidly and openly.
 
 
 # Viaduct
@@ -190,3 +235,4 @@ Bridging Canyons in Professional Education
 Coming 2015
 
 viaduct@hastexo.com
+Note: then you know what Viaduct is all about.
