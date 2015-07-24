@@ -1,5 +1,5 @@
 # Viaduct
-Fixing what's Broken in Professional Technology Education
+Taking Professional Education into the 21st Century
 
 
 What's the
