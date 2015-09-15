@@ -11,16 +11,19 @@ Note: What, would you say, is the universal biggest challenge that
 enterprises face when it comes to technology?
 
 
-# Cost
+<!-- .slide: data-background-image="images/cost.svg" data-background-size="contain" -->
+
 Note: Is it the necessity to keep cost down and margins high?
 
 
-# Scale
-Note: Or the ability to quickly adapt to massive growth in demand, or
-in customer base, for your products and services?
+<!-- .slide: data-background-image="images/scalable.svg" data-background-size="contain" -->
+
+Note: Or the ability toto scale: to quickly adapt to massive growth in
+demand, or in customer base, for your products and services?
 
 
-# Speed
+<!-- .slide: data-background-image="images/speed.svg" data-background-size="contain" -->
+
 Note: Or the ability to ramp up, innovate, and go to market quickly?
 
 
@@ -47,7 +50,8 @@ in technology adoption:
 Note: ... the universal #1 **challenge** that enterprises are facing ...
 
 
-# Skill
+<!-- .slide: data-background-image="images/smart_skilled_worker.svg" data-background-size="contain" -->
+## Wanted <!-- .element class="stamp fragment" -->
 Note: ... is one of skill. More precisely, hiring and training people
 so that they are, and remain, able to know, understand and maintain
 increasingly complex systems. So, why don't we train them?
@@ -72,28 +76,25 @@ Does it allow teams to accumulate knowledge quickly, and does it
 enable companies to innovate fast? It does neither.
 
 
-Increasingly
-### distributed
-and complex systems have
-## no match
-in training
-Note: In addition, while technology is getting increasingly complex
-and distributed, training still happens in unrealistic, overly
-simplified lab environments.
+<!-- .slide: data-background-image="images/distributed.svg" data-background-size="contain" -->
+Note: Increasingly distributed and complex systems have no match in
+training.  While technology is getting increasingly complex and
+distributed, training still happens in unrealistic, overly simplified
+lab environments.
 
 
-It's like sending people to
-# Space
-straight from the lecture hall.
+<!-- .slide: data-background-image="images/astronaut_training.svg" data-background-size="contain" -->
 Note: It's almost like putting astronauts in a lecture hall with a few
-tabletop exercises, and then strapping them into a rocket and flying
+tabletop exercises, ...
+
+
+<!-- .slide: data-background-image="images/astronaut_strapped.svg" data-background-size="contain" -->
+Note: and then strapping them into a rocket and flying
 them to space without ever setting foot in a realistic simulator.
 
 
-This model is
-# broken
-and we're here to
-# fix it.
+<!-- .slide: data-background-image="images/broken_model.svg" data-background-size="contain" -->
+Note: This model is broken and we're here to fix it.
 
 
 # Viaduct
@@ -103,62 +104,12 @@ one hand, and the skills required to run, operate and scale it on the
 other, to enable enterprises to scale better and innovate faster.
 
 
-## A&nbsp;platform
-to bring
-
-
-## cheap
-## scalable
-## rapid
-
-
-## learning capability
-to any organization.
-Note: Why can we do this right now?
-
-
-We have a
-# unique
-opportunity
-
-
-to build
-## a&nbsp;system
-that is
-
-
-# on-demand
-
-
-# practical
-
-
-# realistic
-
-
-# immersive
-Note: ... to create a whole new learning experience.
-
-
-# Why
-do we need this?
-
-
-Legacy On-Demand Learning Systems are
-## video-based
-
-
-Legacy On-Demand Learning Systems are
-## non-interactive
-
-
-Legacy On-Demand Learning Systems are
-## monolingual
-
-
-Legacy On-Demand Learning Systems
-## innovate slowly
-
+<!-- .slide: data-background-image="images/system.svg" data-background-size="contain" -->
+Note: A platform to bring
+- cheap
+- scalable
+- rapid
+learning capability to any organization.
 
 # Viaduct
 combines
@@ -207,23 +158,18 @@ And then combine this with...
 Source: //upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg
 
 
-Full
-## Multi-Device
-Capability
+<!-- .slide: data-background-image="images/multidevice.svg" data-background-size="contain" -->
 Note: ... a streamlined multi-device
 learning platform, so anyone can learn from anywhere, using
 desktops, laptops, tablets and mobile devices
 
 
-Full
-## Multi-Language
-Capability
+<!-- .slide: data-background-image="images/multilingual.svg" data-background-size="contain" -->
 Note: ... and full multilanguage capability, to level the playing field
 for professionals with a first or working language other than English
 
 
-Fully
-## Open Innovation
+<!-- .slide: data-background-image="images/open_source.svg" data-background-size="contain" -->
 Note: ... and do all that leveraging the momentum and speed of
 platforms that innovate rapidly and openly.
 
