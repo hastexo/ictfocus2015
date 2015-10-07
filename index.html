@@ -32,12 +32,6 @@
 		 data-separator-vertical="^\n\n"
 		 data-separator-notes="^Note:">
 	</section>
-      	<section id="sources"
-		 data-markdown="markdown/sources.md"
-		 data-separator="^\n\n\n"
-		 data-separator-vertical="^\n\n"
-		 data-separator-notes="^Note:">
-	</section>
       </div>
     </div>
 
@@ -72,16 +66,5 @@ Reveal.initialize({
 });
     </script>
 
-    <!-- For morris.js charts -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.js"></script>
-    <script src="jquery-csv/src/jquery.csv.js"></script>
-    <script src="charts/chart.js"></script>
-
-    <script type="text/javascript">
-      Reveal.addEventListener('ready', function() { barChart('benefits', 'label', ['value'], ['% of respondents']) })
-    </script>
   </body>
 </html>
