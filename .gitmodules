@@ -1,6 +1,7 @@
 [submodule "reveal.js"]
 	path = reveal.js
-	url = git://github.com/hakimel/reveal.js
+	url = https://github.com/fghaas/reveal.js
+	branch = audio-slideshow
 [submodule "morris.js"]
 	path = morris.js
 	url = https://github.com/morrisjs/morris.js
