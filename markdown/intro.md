@@ -1,137 +1,118 @@
-# hastexo Academy
-Taking Professional Education into the 21st Century
-
-
-What's the
-# biggest
-challenge in
-## technology
-today?
-Note: What, would you say, is the universal biggest challenge that
-enterprises face when it comes to technology?
+# 
+Note: Question: what's the universal biggest challenge that
+enterprises face when it comes to technology adoption?
 
 
 <!-- .slide: data-background-image="images/cost.svg" data-background-size="contain" -->
 
-Note: Is it the necessity to keep cost down and margins high?
+Note: Is it cost, the necessity to keep expense down and margins high?
 
 
 <!-- .slide: data-background-image="images/scalable.svg" data-background-size="contain" -->
 
-Note: Or the ability toto scale: to quickly adapt to massive growth in
+Note: Or scalability: the ability to quickly adapt to massive growth in
 demand, or in customer base, for your products and services?
 
 
 <!-- .slide: data-background-image="images/speed.svg" data-background-size="contain" -->
 
-Note: Or the ability to ramp up, innovate, and go to market quickly?
+Note: Or speed, the requirement to ramp up, innovate, and go to market quickly?
 
 
-## Cost
-## Scale
-## Speed
-## Nope <!-- .element class="stamp fragment" -->
+<!-- .slide: data-background-image="images/costscalespeed.svg" data-background-size="contain" -->
+![scratch that](images/scratch.svg) <!-- .element class="fragment" -->
+
 Note: In fact, it's none of these.
-
-
-Expected
-## benefits
-of modern data center technology
-<div id="chart-benefits"></div>
-Note: Because while reduced cost, improved scalability and quick
-time-to-market are key to the expected **benefits** of modern
+Because while reduced cost, improved scalability and quick
+time-to-market are key expected **benefits** of modern
 technology, like cloud, like distributed storage, like software
 defined networking...
-
-
-# #1
-## challenge
-in technology adoption:
-Note: ... the universal #1 **challenge** that enterprises are facing ...
+... the universal #1 **challenge** that enterprises are facing ...
 
 
 <!-- .slide: data-background-image="images/smart_skilled_worker.svg" data-background-size="contain" -->
-## Wanted <!-- .element class="stamp fragment" -->
-Note: ... is one of skill. More precisely, hiring and training people
-so that they are, and remain, able to know, understand and maintain
-increasingly complex systems. So, why don't we train them?
+Note: ... is one of skill. More precisely, hiring people that know,
+understand and can maintain these increasingly complex distributed
+systems. So, if these skills are rare and in high demand, why don't we
+build them?
 
 
-<!-- .slide: data-background-image="images/class-377117_1920.jpg" data-background-size="cover" -->
-Note: because this is what training in the technology industry looks
-like. Face to face, single instructor. Small group. This is the best
-and most effective way of transferring technology knowledge
-today.
+<!-- .slide: data-background-image="images/costscalespeed.svg" data-background-size="contain" -->
 
-Source:
-https://pixabay.com/en/class-classroom-professor-student-377117/ (CC0)
-
-
-## Cost
-## Scale
-## Speed
-## Nope <!-- .element class="stamp fragment" -->
-Note: Is this a cost-effective model, that scales to any team size?
-Does it allow teams to accumulate knowledge quickly, and does it
-enable companies to innovate fast? It does neither.
+Note: ... in a manner that's cost-effective, scalable, efficient and fast?
 
 
 <!-- .slide: data-background-image="images/distributed.svg" data-background-size="contain" -->
-Note: Increasingly distributed and complex systems have no match in
-training.  While technology is getting increasingly complex and
-distributed, training still happens in unrealistic, overly simplified
-lab environments.
+
+Note: ... that works for distributed teams?
+
+
+<!-- .slide: data-background-image="images/no_match.svg" data-background-size="contain" -->
+Note: Conventional, instructor-driven face-to-face training is
+frequently no option, it's neither very cost-effective, nor very
+scalable, nor very fast in building up a team's skill set.
+
+
+<!-- .slide: data-background-image="images/video_based.svg" data-background-size="contain" -->
+Note: And most **self**-paced training relies on attendees watching an
+instructor on video.
+
+
+<!-- .slide: data-background-image="images/learning.svg" data-background-size="contain" -->
+Note: And self-studying documentation. And that's how you're supposed
+to understand and be able to manage increasingly complex distributed
+systems. Without ever actually touching one that you can also break with
+impunity.
 
 
 <!-- .slide: data-background-image="images/astronaut_training.svg" data-background-size="contain" -->
-Note: It's almost like putting astronauts in a lecture hall with a few
-tabletop exercises, ...
+Note: It's almost like putting astronauts in a lecture hall with study
+books and a few tabletop exercises, ...
 
 
 <!-- .slide: data-background-image="images/astronaut_strapped.svg" data-background-size="contain" -->
-Note: and then strapping them into a rocket and flying
-them to space without ever setting foot in a realistic simulator.
+Note: and then strapping them to a rocket and hurling them into space
+without them ever setting foot in a realistic simulator.
 
 
 <!-- .slide: data-background-image="images/broken_model.svg" data-background-size="contain" -->
-Note: This model is broken and we're here to fix it.
+Note: That's a broken model. And we're here to fix it.
 
 
-# hastexo Academy
-Bridging Canyons in Professional Education
-Note: hastexo Academy is here to bridge the canyon between technology on the
-one hand, and the skills required to run, operate and scale it on the
-other, to enable enterprises to scale better and innovate faster.
+<!-- .slide: data-background-image="images/help.svg" data-background-size="contain" -->
+Note: We need learning environments that actually help you learn what
+you want and need to learn.
 
 
-<!-- .slide: data-background-image="images/system.svg" data-background-size="contain" -->
-Note: A platform to bring
-- cheap
-- scalable
-- rapid
-learning capability to any organization.
-
-# hastexo Academy
-combines
+<!-- .slide: data-background-image="images/immersive.svg" data-background-size="contain" -->
+Note: That come with immersive, realistic lab environments.
 
 
-<!-- .slide: data-background-image="//open.edx.org/sites/default/files/wysiwyg/logo-edx-openedx.png" data-background-size="contain" -->
-Note: the Open edX learning management platform, one which is sweeping
-universities and academic institutions for its superior management
-capabilities and flexibility, and it needs to come to professional
-education.
+<!-- .slide: data-background-image="images/interact_with_peers.svg" data-background-size="contain" -->
+Note: That allow you to interact directly with your peers, in your
+learning environment just as you would in your professional group.
+
+
+<!-- .slide: data-background-image="images/open_source.svg" data-background-size="contain" -->
+Note: ... and do all that leveraging the momentum and speed of
+open-source platforms that innovate rapidly and openly.
+
+
+<!-- .slide: data-background-image="images/edx-logo.svg" data-background-size="contain" -->
+Note: the Open edX learning management platform is one which is
+already sweeping universities and academic institutions for its
+superior management capabilities and flexibility, and that offers
+these same qualities, also for professional education.
 
 
 <!-- .slide: data-background-image="images/openstack-logo.svg" data-background-size="contain" -->
-Note: OpenStack, a cloud management and orchestration platform
+Note: OpenStack is a cloud management and orchestration platform
 reshaping the way organizations manage and run their data centers.
 
 
-Full
-## Integration
-With Real-Life Environments
-Note: As a result, hastexo Academy provides a learning experience that is
-directly and smoothly integrated with life-sized, complex
+<!-- .slide: data-background-image="images/openstack-edx-logo.svg" data-background-size="contain" -->
+Note: And using these two platforms, we can provide a learning experience
+that is directly and smoothly integrated with life-sized, complex
 environments. This frees organizations from having to either maintain
 a costly parallel training infrastructure, or to settle for
 unrealistic scaled-down versions of complex environments.
@@ -153,32 +134,23 @@ play with in training.
 <!-- .slide: data-background-image="//upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" data-background-size="contain" -->
 Note: Or every one of your Big Data developers a full Hadoop cluster.
 
-And then combine this with...
-
 Source: //upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg
 
 
-<!-- .slide: data-background-image="images/multidevice.svg" data-background-size="contain" -->
-Note: ... a streamlined multi-device
-learning platform, so anyone can learn from anywhere, using
-desktops, laptops, tablets and mobile devices
-
-
-<!-- .slide: data-background-image="images/multilingual.svg" data-background-size="contain" -->
-Note: ... and full multilanguage capability, to level the playing field
-for professionals with a first or working language other than English
+<!-- .slide: data-background-image="images/costscalespeed.svg" data-background-size="contain" -->
+Note: Cost-effective, scalable, fast...
 
 
 <!-- .slide: data-background-image="images/open_source.svg" data-background-size="contain" -->
-Note: ... and do all that leveraging the momentum and speed of
-platforms that innovate rapidly and openly.
+Note: ... and open.
 
 
-# hastexo Academy
+<!-- .slide: data-background-image="images/openstack-edx-logo.svg" data-background-size="contain" -->
+Note: With Open edX and OpenStack coming together for better
+professional learning.
 
-Bridging Canyons in Professional Education
 
-Coming 2015
+![hastexo Academy logo](images/academy-logo.svg)
 
-viaduct@hastexo.com
-Note: then you know what hastexo Academy is all about.
+
+[`academy@hastexo.com`](mailto:academy.hastexo.com)
