@@ -1,4 +1,4 @@
-# Viaduct
+# hastexo Academy
 Taking Professional Education into the 21st Century
 
 
@@ -97,9 +97,9 @@ them to space without ever setting foot in a realistic simulator.
 Note: This model is broken and we're here to fix it.
 
 
-# Viaduct
+# hastexo Academy
 Bridging Canyons in Professional Education
-Note: Viaduct is here to bridge the canyon between technology on the
+Note: hastexo Academy is here to bridge the canyon between technology on the
 one hand, and the skills required to run, operate and scale it on the
 other, to enable enterprises to scale better and innovate faster.
 
@@ -111,7 +111,7 @@ Note: A platform to bring
 - rapid
 learning capability to any organization.
 
-# Viaduct
+# hastexo Academy
 combines
 
 
@@ -130,7 +130,7 @@ reshaping the way organizations manage and run their data centers.
 Full
 ## Integration
 With Real-Life Environments
-Note: As a result, Viaduct provides a learning experience that is
+Note: As a result, hastexo Academy provides a learning experience that is
 directly and smoothly integrated with life-sized, complex
 environments. This frees organizations from having to either maintain
 a costly parallel training infrastructure, or to settle for
@@ -174,11 +174,11 @@ Note: ... and do all that leveraging the momentum and speed of
 platforms that innovate rapidly and openly.
 
 
-# Viaduct
+# hastexo Academy
 
 Bridging Canyons in Professional Education
 
 Coming 2015
 
 viaduct@hastexo.com
-Note: then you know what Viaduct is all about.
+Note: then you know what hastexo Academy is all about.
