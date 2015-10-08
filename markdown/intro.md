@@ -98,7 +98,7 @@ Note: ... and do all that leveraging the momentum and speed of
 open-source platforms that innovate rapidly and openly.
 
 
-<!-- .slide: data-background-image="images/edx-logo.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/openedx-logo.svg" data-background-size="contain" -->
 Note: the Open edX learning management platform is one which is
 already sweeping universities and academic institutions for its
 superior management capabilities and flexibility, and that offers
