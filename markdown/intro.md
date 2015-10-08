@@ -153,4 +153,4 @@ professional learning.
 ![hastexo Academy logo](images/academy-logo.svg)
 
 
-[`academy@hastexo.com`](mailto:academy.hastexo.com)
+[`academy@hastexo.com`](mailto:academy@hastexo.com)
