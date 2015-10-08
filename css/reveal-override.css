@@ -93,3 +93,7 @@ body,
     margin-top:-10vh;
     text-shadow: none;
 }
+
+.reveal .legal {
+    font-size: x-small !important;
+}
