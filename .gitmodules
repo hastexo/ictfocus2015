@@ -2,9 +2,3 @@
 	path = reveal.js
 	url = https://github.com/fghaas/reveal.js
 	branch = audio-slideshow
-[submodule "morris.js"]
-	path = morris.js
-	url = https://github.com/morrisjs/morris.js
-[submodule "jquery-csv"]
-	path = jquery-csv
-	url = https://github.com/fghaas/jquery-csv/
