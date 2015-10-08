@@ -95,5 +95,6 @@ body,
 }
 
 .reveal .legal {
+    margin-top: 5em;
     font-size: x-small !important;
 }
