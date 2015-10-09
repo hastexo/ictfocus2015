@@ -181,27 +181,30 @@ Note: Enough theory.  Let's try it in practice!
 
 <!-- .slide: data-background-iframe="http://localhost:4200/" data-background-size="contain" -->
 
-Note:  Here we'll try to fire up a multi-node edX installation on OpenStack.
-- heat stack-create -f heat-templates/hot/edx-multi-node.yaml -P "public_net_id=62954df1-05bb-42e5-9960-ca921cccaeeb;app_count=1;key_name=adolfo" edx-multi
+Note:  Here we'll fire up a multi-node edX installation on OpenStack.
+
+- heat stack-create -f heat-templates/hot/edx-multi-node.yaml -P "public_net_id=62954df1-05bb-42e5-9960-ca921cccaeeb;app_count=1;key_name=adolfo" openedx2015
 - watch -n 15 heat stack-list
-- heat resource-list edx-multi
-- heat output-show edx-multi --all
+- heat output-show openedx2015 --all
 - ssh -A ubuntu@[deploy_ip]
-- curl -s http://169.254.169.254/openstack/latest/meta_data.json
+- curl -s http://169.254.169.254/openstack/latest/meta_data.json | python -mjson.tool
 - exit
-- heat stack-update -f heat-templates/hot/edx-multi-node.yaml -P "public_net_id=62954df1-05bb-42e5-9960-ca921cccaeeb;app_count=2;key_name=adolfo" edx-multi
+- heat stack-update -f heat-templates/hot/edx-multi-node.yaml -P "public_net_id=62954df1-05bb-42e5-9960-ca921cccaeeb;app_count=2;key_name=adolfo" openedx2015
+- watch -n 15 heat stack-list
 - ssh -A ubuntu@[deploy_ip]
-- curl -s http://169.254.169.254/openstack/latest/meta_data.json
+- curl -s http://169.254.169.254/openstack/latest/meta_data.json | python -mjson.tool
 - ssh-keygen -t rsa
 - for i in 111 112 113 202 203; do j=192.168.122.$i; ssh-keyscan $j >> ~/.ssh/known_hosts; ssh-copy-id -i ~/.ssh/id_rsa $j; done
 - exit
 - ssh ubuntu@[deploy_ip]
 - ssh-add -L
 - git clone -b integration/cypress https://github.com/hastexo/edx-configuration.git
-- cd edx-configuration/playbooks/openstack
+- cd edx-configuration/playbooks/openstack/group_vars
 - for i in all backend_servers app_servers; do cp $i.example $i; done
-- cd ../
+- cd ../../
 - ansible-playbook -i openstack/inventory.py openstack-multi-node.yml 
-- heat output-show edx-multi --all
-- vim /etc/hosts
-- Access it in the browser
+- heat output-show openedx2015-pre --all
+- vim /etc/hosts:
+  [app_ip] lms.example.com studio.example.com
+
+Now show the LMS in the browser.
