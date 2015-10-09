@@ -3,19 +3,19 @@
 ## FTW! <!-- .element class="fragment" -->
 
 
-# Improvements
+## Improvements
 
 Note: Nothing's perfect, and this is how we plan to improve in the near future.
 
 
-## ... for the Open edX cluster
+### ... for the Open edX cluster
 - Clustered RabbitMQ <!-- .element class="fragment" -->
 - Separate worker (and other) nodes <!-- .element class="fragment" -->
 - Load balancer for galera <!-- .element class="fragment" -->
 - Auto-scaling <!-- .element class="fragment" -->
 
 
-## ... for the hastexo XBlock
+### ... for the hastexo XBlock
 - Configurable automatic grader <!-- .element class="fragment" -->
 - Don't depend on Django features (i.e. don't be naughty!) <!-- .element class="fragment" -->
 
