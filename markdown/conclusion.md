@@ -47,4 +47,11 @@ basis for your own presentations, as you see fit.
 
 
 <!-- .slide: data-background-image="images/hastexo-logo.svg" data-background-size="contain" -->
-https://www.hastexo.com
+https://www.hastexo.com/openedx
+
+Note: This is our Open edX landing page, from which you can continue to
+- resources related to our OpenStack community involvement,
+- news releases,
+- a 3-minute video explaining why we got into this (essentially, what
+  I said at the top of the talk in 3 minutes, with pretty graphics and
+  audio narration).
