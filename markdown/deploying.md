@@ -77,7 +77,7 @@ Can we use the
 from edx/configuration?
 
 - No. <!-- .element: class="fragment" -->
-- (Sorry, removed on Cypress!) <!-- .element: class="fragment" -->
+- (Sorry, removed in Cypress!) <!-- .element: class="fragment" -->
 
 Note: While Feanil's talk was very enlightening, it didn't provide any
 technical details as to how exactly to write a playbook for a cluster.  Also,
