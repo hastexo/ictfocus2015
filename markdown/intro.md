@@ -3,8 +3,6 @@
 
 [`adolfo.brandes@hastexo.com`](mailto:adolfo.brandes@hastexo.com)
 
-[`florian.haas@hastexo.com`](mailto:florian.haas@hastexo.com)
-
 [@hastexo](https://twitter.com/hastexo)
 
 
