@@ -29,6 +29,12 @@ Use the
 - [hastexo-xblock](https://github.com/hastexo/hastexo-xblock)
 - [edx-configuration/tree/integration/cypress](https://github.com/hastexo/edx-configuration/tree/integration/cypress)
 
+Note: We have followed the precedent set by most other currently
+available XBlocks and released ours under the AGPL.
+
+The OpenStack deployment bits are of course under the AGPL as well, as
+is the rest of the edx-configuration repo.
+
 
 <!-- .slide: data-background-image="images/by-sa.svg" data-background-size="contain" -->
 http://hastexo.github.io/openedx2015
