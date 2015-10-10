@@ -3,7 +3,7 @@
 
 [`adolfo.brandes@hastexo.com`](mailto:adolfo.brandes@hastexo.com)
 
-[@hastexo](https://twitter.com/hastexo)
+[@arbrandes](https://twitter.com/arbrandes) | [@hastexo](https://twitter.com/hastexo)
 
 
 What is this
