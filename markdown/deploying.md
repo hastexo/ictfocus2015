@@ -40,7 +40,8 @@ wasn't as easy.
 
 ### How
 is Open edX
-### deployed on edx.org?
+### deployed
+on edx.org?
 
 [Feanil Patel's talk](https://www.youtube.com/watch?v=ITMwNto82eE) <!-- .element: class="fragment" -->
 
@@ -49,9 +50,7 @@ We were lucky, because not only had Feanil Patel given a talk on this very
 subject last year, it had been recorded and posted online.
 
 
-#### Cluster Design
-
-![Cluster design](images/cluster.svg)
+<!-- .slide: data-background-image="images/cluster.svg" data-background-size="contain" -->
 
 Note: This is how we designed our OpenStack cluster:
 
@@ -141,6 +140,7 @@ Writing the
 - 3 backend servers <!-- .element: class="fragment" -->
 - X app servers in a pool <!-- .element: class="fragment" -->
 - Parameters: Key, public network, VM sizes, and number of app servers <!-- .element: class="fragment" -->
+- Outputs: Public IPs <!-- .element: class="fragment" -->
 
 Note: After figuring out how to use the Ansible roles in edx/configuration, we
 forged ahead with writing the Heat template that would create the actual nodes
@@ -158,7 +158,7 @@ The
 ## Inventory
 Generator
 
-*curl -s http://169.254.169.254/openstack/latest/meta_data.json* <!-- .element: class="fragment" -->
+[169.254.169.254/openstack/latest/meta_data.json]() <!-- .element: class="fragment" -->
 
 Note: Problem: if the number of app servers is set at stack creation time, how
 do we get a list of their IP addresses, and how can we pass that to Ansible
@@ -206,5 +206,4 @@ Note:  Here we'll fire up a multi-node edX installation on OpenStack.
 - heat output-show openedx2015-pre --all
 - vim /etc/hosts:
   [app_ip] lms.example.com studio.example.com
-
-Now show the LMS in the browser.
+- https://lms.example.com
