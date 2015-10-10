@@ -12,7 +12,7 @@ Note: Nothing's perfect, and this is how we plan to improve in the near future.
 ### ... for the Open edX cluster
 - Clustered RabbitMQ <!-- .element class="fragment" -->
 - Separate worker (and other) nodes <!-- .element class="fragment" -->
-- Load balancer for galera <!-- .element class="fragment" -->
+- Load balancer for Galera <!-- .element class="fragment" -->
 - Auto-scaling <!-- .element class="fragment" -->
 
 
