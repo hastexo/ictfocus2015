@@ -41,6 +41,10 @@ http://hastexo.github.io/openedx2015
 
 https://github.com/hastexo/openedx2015
 
+Note: This presentation, like most hastexo slide decks, is under the
+CC-BY-SA 3.0 license. So please feel free to peruse these slides as a
+basis for your own presentations, as you see fit.
+
 
 <!-- .slide: data-background-image="images/hastexo-logo.svg" data-background-size="contain" -->
 https://www.hastexo.com
