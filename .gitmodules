@@ -2,3 +2,9 @@
 	path = reveal.js
 	url = https://github.com/hakimel/reveal.js
 	branch = master
+[submodule "highlight.js"]
+	path = highlight.js
+	url = https://github.com/isagalaev/highlight.js
+[submodule "qrcodejs"]
+	path = qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs
