@@ -154,9 +154,3 @@ Note: ... and open.
 <!-- .slide: data-background-image="images/openstack-edx-logo.svg" data-background-size="contain" -->
 Note: With Open edX and OpenStack coming together for better
 professional learning.
-
-
-![hastexo Academy logo](images/academy-logo.svg)
-
-
-[`academy@hastexo.com`](mailto:academy@hastexo.com)

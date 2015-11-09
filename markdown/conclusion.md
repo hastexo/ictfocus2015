@@ -47,6 +47,12 @@ Note: This is our Open edX landing page, from which you can continue to
   audio narration).
 
 
+![hastexo Academy logo](images/academy-logo.svg)
+
+
+[`academy@hastexo.com`](mailto:academy@hastexo.com)
+
+
 <div class="legal">
 "edX", "Open edX", the edX logo, and the "Powered by Open edX" logo
 are trademarks or registered trademarks of [edX,
