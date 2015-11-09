@@ -99,22 +99,3 @@ The solution we found was GateOne, a open source, Python and Javascript
 terminal emulator and SSH client.  When run on the same app server as the LMS
 hosting the XBlock, it allowed us to create an SSH connection securely
 and automatically to the student's cluster.
-
-
-<!-- .slide: data-background-iframe="http://localhost:4200/" data-background-size="contain" -->
-
-Note: We'll now deploy the hastexo XBlock and a demo course.
-
-- heat output-show openedx2015 --all
-- ssh -A ubuntu@[deploy_ip]
-- cd edx-configuration/playbooks
-- ansible-playbook -i openstack/inventory.py hastexo_xblock.yml \
-  -e hastexo_xblock_repo=https://github.com/hastexo/hastexo-xblock.git \
-  --tags edxapp_cfg \
-  --limit app_servers
-- ansible-playbook -i openstack/inventory.py run_role.yml \
-  -e role=git_add_course \
-  -e git_add_course_repo=git@github.com:hastexo/hx112-edx.git \
-  -e git_add_course_version=openedx2015 \
-  -e git_add_course_checkout_name=hx112-edx \
-  --limit app_servers
