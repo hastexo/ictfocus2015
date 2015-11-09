@@ -160,28 +160,3 @@ professional learning.
 
 
 [`academy@hastexo.com`](mailto:academy@hastexo.com)
-<div class="legal">
-"edX", "Open edX", the edX logo, and the "Powered by Open edX" logo
-are trademarks or registered trademarks of [edX,
-Inc.](http://www.edx.org)
-
-"OpenStack" and the OpenStack logo are trademarks or registered
-trademarks of the [OpenStack Foundation.](http://www.openstack.org)
-
-"Docker" and the Docker logo are trademarks or registered trademarks
-of [Docker, Inc.](http://docker.io)
-
-"Ceph" and the Ceph logo are trademarks or registered trademarks of
-[Red Hat, Inc.](http://www.redhat.com)
-
-"Hadoop" and the Hadoop logo are trademarks or registered trademarks
-of the [Apache Software Foundation](http://www.apache.org).
-
-[hastexo](https://www.hastexo.com) is not affiliated, endorsed by, or
-sponsored by the respective trademark owners.
-
-Graphics by [Natalka Design](http://www.natalkadesign.com/).
-
-This presentation &copy; 2015 hastexo Professional Services GmbH. All
-rights reserved.
-</legal>
