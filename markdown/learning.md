@@ -1,10 +1,12 @@
-Learning
+Leveraging
 ## OpenStack
-on
+from
 ## Open edX
 
-Note: Alright, we have a highly-available, scalable Open edX cluster to play
-with.  How about using it to teach OpenStack itself?
+Note: Alright, we have a highly-available, scalable Open edX cluster
+to play with.  How about using it to teach OpenStack itself, or any
+other technology that requires learners to access complex distributed
+environments?
 
 
 A
@@ -84,28 +86,10 @@ outputs:
 ```
 
 
-It's just
-## Python, right?
-
-- Accesses the data store directly <!-- .element: class="fragment" -->
-- Uses the LMS's workers <!-- .element: class="fragment" -->
-
-Note: We wanted an easy way for course authors to upload their Heat template,
-and at least for now, that means uploading it to the course's data store, from
-which the XBlock will fetch it directly.
-
-Firing up a Heat stack takes a while, so we needed a way to do this
-assynchronously... and the LMS's workers were *right there*!  So instead
-of installing a whole other task queue, we went with Celery. though it requires
-adding the hastexo-xblock to the LMS's installed apps.
-
-
 Connecting the
 ## browser
 to the
 ## lab environment
-
-... with GateOne! <!-- .element: class="fragment" -->
 
 Note: The last piece of the puzzle was finding a way to connect the course
 content, as displayed on a student's browser, to the lab environment that would
@@ -115,21 +99,6 @@ The solution we found was GateOne, a open source, Python and Javascript
 terminal emulator and SSH client.  When run on the same app server as the LMS
 hosting the XBlock, it allowed us to create an SSH connection securely
 and automatically to the student's cluster.
-
-
-## Bells
-and
-## Whistles
-
-- A role to deploy the XBlock <!-- .element: class="fragment" -->
-- A role to deploy courses from git <!-- .element: class="fragment" -->
-
-Note: In developing all this, we also came up with a couple of helper roles.
-One to deploy our XBlock properly, including dependencies, adding it to the
-LMS's installed apps, and configuring the nginx reverse proxy.  The other, to
-deploy courses from git.
-
-Let's see it all in action!
 
 
 <!-- .slide: data-background-iframe="http://localhost:4200/" data-background-size="contain" -->

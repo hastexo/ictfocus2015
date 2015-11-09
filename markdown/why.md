@@ -7,7 +7,6 @@ Note: Why did we chose the tools we did?
 - Openness and community<!-- .element: class="fragment" -->
 - Technology <!-- .element: class="fragment" -->
 - Extensibility <!-- .element: class="fragment" -->
-- Coolness factor <!-- .element: class="fragment" -->
 
 Note: We wanted to build our product around an open platform, so we shopped
 around for open source LMSs.  Open source is not everything, however.  Coming
@@ -35,7 +34,6 @@ greatest, and coolest open source LMS out there?
 - Openness and community<!-- .element: class="fragment" -->
 - Technology <!-- .element: class="fragment" -->
 - Extensibility <!-- .element: class="fragment" -->
-- Coolness factor <!-- .element: class="fragment" -->
 
 Note: Can you see the pattern, here?  OpenStack is:
 
@@ -51,9 +49,7 @@ Note: Can you see the pattern, here?  OpenStack is:
 
 - Also the cool kid on the block, as far as cloud platforms go
 
-
-# Bingo!
-Note: It didn't take long for us, OpenStack consultants and trainers, to
+It didn't take long for us, OpenStack consultants and trainers, to
 recognize that Open edX was the perfect complement to our consulting and
 training expertise.  As you'll see, the union proved itself to be (well,
 almost) perfect for our needs, the proof of which is that we were able to come

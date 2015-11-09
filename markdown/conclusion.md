@@ -4,24 +4,6 @@
 ## = Awesome! <!-- .element class="fragment" -->
 
 
-## Improvements
-
-Note: Nothing's perfect, and this is how we plan to improve in the near future.
-
-
-### ... for the Open edX cluster
-- Clustered RabbitMQ <!-- .element class="fragment" -->
-- Separate worker (and other) nodes <!-- .element class="fragment" -->
-- Load balancer for Galera <!-- .element class="fragment" -->
-- Auto-scaling <!-- .element class="fragment" -->
-
-
-### ... for the hastexo XBlock
-- Singleton definition in OLX <!-- .element class="fragment" -->
-- Configurable automatic grader <!-- .element class="fragment" -->
-- Don't depend (so much) on Django features <!-- .element class="fragment" -->
-
-
 Use the
 ## Source
 
