@@ -1,3 +1,9 @@
+## OpenStack for Open edX:
+## Inside and Out
+
+[`florian.haas@hastexo.com`](mailto:florian.haas@hastexo.com)
+
+[@xahteiwi](https://twitter.com/xahteiwi) | [@hastexo](https://twitter.com/hastexo)
 # 
 Note: Question: what's the universal biggest challenge that
 enterprises face when it comes to technology adoption?

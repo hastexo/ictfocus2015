@@ -1,21 +1,21 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>hastexo Academy: Taking Professional Education to the Next Level</title>
+    <title>OpenStack for Open edX: Inside and Out</title>
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-      
+
     <!-- reveal.js CSS theme and local overrides -->
     <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
     <link rel="stylesheet" href="reveal.js/css/theme/white.css" id="theme"/>
     <link rel="stylesheet" href="css/reveal-override.css"/>
-	  
+
     <!-- For syntax highlighting -->
-    <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css" />
+    <link rel="stylesheet" href="highlight.js/src/styles/googlecode.css" />
 
     <!-- For JavaScript-generated QR codes -->
-    <!--link rel="stylesheet" href="css/qrcode.css" /-->
+    <link rel="stylesheet" href="css/qrcode.css"/>
 
     <!-- If the query includes 'print-pdf', use the PDF print sheet -->
     <script>
@@ -26,18 +26,53 @@
   <body>
     <div class="reveal">
       <div class="slides">
-      	<section id="intro"
-		 data-markdown="markdown/intro.md"
-		 data-separator="^\n\n\n"
-		 data-separator-vertical="^\n\n"
-		 data-separator-notes="^Note:">
-	</section>
+        <section>
+	  <div class="qrcode" id="qrcode-talk"/>
+	  <p><a href="http://hastexo.github.io/ictfocus2015" target="_blank"
+		id="talk">http://hastexo.github.io/ictfocus2015</a></p>
+        </section>
+        <section id="intro"
+                 data-markdown="markdown/intro.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
+        <section id="openedx"
+                 data-markdown="markdown/openedx.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
+        <section id="why"
+                 data-markdown="markdown/why.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
+        <section id="deploying"
+                 data-markdown="markdown/deploying.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
+        <section id="learning"
+                 data-markdown="markdown/learning.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
+        <section id="conclusion"
+                 data-markdown="markdown/conclusion.md"
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+        </section>
       </div>
     </div>
 
     <script src="reveal.js/lib/js/head.min.js"></script>
     <script src="reveal.js/js/reveal.js"></script>
-    
+
     <script>
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
@@ -66,5 +101,32 @@ Reveal.initialize({
 });
     </script>
 
+    <script src="qrcodejs/qrcode.js"></script>
+    <script type="text/javascript">
+      Reveal.addEventListener('ready', function() {
+/* Grab all links and iterate over them */
+var sources = document.getElementsByTagName('a');
+n = sources.length;
+for (var i = 0; i < n; i++) {
+    var source = sources[i];
+    var href = source.href;
+
+    /* If the link has no href attribute, skip it */
+    if (href) {
+        var target_id = "qrcode-" + source.id ;
+        var target = document.getElementById(target_id);
+        /* If the source has no corresponding target element, skip
+         * it */
+        if (target) {
+            var qr = new QRCode(target, {
+                colorDark : "#000000",
+                colorLight : "rgba(255,255,255,0)",
+            });
+            qr.makeCode(href);
+        }
+    }
+}
+})
+    </script>
   </body>
 </html>
