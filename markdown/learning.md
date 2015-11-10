@@ -28,8 +28,8 @@ cluster, even if it's just composed of VMs, would be very expensive.
 ## Heat
 to the rescue!
 
-- A Heat stack for each student... <!-- .element: class="fragment" -->
-- ... suspended when not in use. <!-- .element: class="fragment" -->
+- A Heat stack for each student...
+- ... suspended when not in use.
 
 Note: The solution we came up with is to fire a Heat stack for every student,
 but then suspend it if it's not in use.  When the trainee comes back, of
@@ -39,7 +39,7 @@ course, the stack is resumed automatically.
 Enter
 ## XBlocks!
 
-https://github.com/hastexo/hastexo-xblock <!-- .element: class="fragment" -->
+https://github.com/hastexo/hastexo-xblock
 
 Note: As noted before, one of the reasons we chose Open edX was because it was
 extensible.  And XBlocks were the extension API that seemed most suited to

@@ -4,9 +4,9 @@ Note: Why did we chose the tools we did?
 
 
 ## Why Open edX?
-- Openness and community<!-- .element: class="fragment" -->
-- Technology <!-- .element: class="fragment" -->
-- Extensibility <!-- .element: class="fragment" -->
+- Openness and community
+- Technology
+- Extensibility
 
 Note: We wanted to build our product around an open platform, so we shopped
 around for open source LMSs.  Open source is not everything, however.  Coming
@@ -31,9 +31,9 @@ greatest, and coolest open source LMS out there?
 
 
 ## Why OpenStack?
-- Openness and community<!-- .element: class="fragment" -->
-- Technology <!-- .element: class="fragment" -->
-- Extensibility <!-- .element: class="fragment" -->
+- Openness and community
+- Technology
+- Extensibility
 
 Note: Can you see the pattern, here?  OpenStack is:
 
